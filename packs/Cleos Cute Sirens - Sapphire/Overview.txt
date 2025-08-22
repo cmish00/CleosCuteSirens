@@ -1,0 +1,14 @@
+LSPD (2016+ LAPD) [WAIL // YELP // PRIORITY // AIRHORN]
+Federal Signal Smart Siren Platinum SSP3000B
+
+BCSO [WAIL // YELP]
+Whelen Cencom Sapphire
+
+SAHP [WAIL // YELP]
+Whelen Cencom Core
+
+LSDF - FD1, FD4, FD5 (Engine, Ladder, Rescue) [WAIL // YELP // POWERCALL // HORN]
+Motorola Spectra
+
+LSFD - FD3, FD6-10 (Brush, Tanker, LSIA, Paramedic, EMS) [WAIL  // YELP]
+Whelen Cencom Gold

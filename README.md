@@ -27,6 +27,12 @@ Custom siren pack for the popular FiveM scrupt Luxart Vehicle Control -- But Cut
 				SAHP - WHELEN CENCOM CORE [WAIL // YELP]
 				LSFD - MOTOROLA SPECTRA [WAIL // YELP // POWERCALL // HORN] (ENGINE, LADDER, RESCUE)
 				LSFD - WHELEN CENCOM GOLD [WAIL // YELP] (BRUSH, TANKER, LSIA, PARAMEDIC, EMS)
+# Preview Videos
+- [Example Full Pack](https://youtu.be/uw5eCVIve2E) (_With Sapphire Pack_)
+- [Delta](https://youtu.be/ioXrUgS6DZI)
+- [Rumbler](https://youtu.be/zTFQwAEUACc)
+- [Sapphire](https://youtu.be/2rQCDnOHUVo)
+
 ![Cover Image](/assets/images/cover.jpg)
 ![Cover Image](/assets/images/cover2.jpg)
 ![Cover Image](/assets/images/cover3.jpg)
